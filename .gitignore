@@ -1,2 +1,6 @@
 
 docs/jekyllbook/
+
+\.ipynb_checkpoints/
+
+res/__pycache__/
